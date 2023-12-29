@@ -1,6 +1,6 @@
 # Created by Acas Saleem
-# Git: https://github.com/Acassaleem
-# Educational Purposes Only
+# Github: https://github.com/Acassaleem
+# ** Educational Purposes Only **
 import string
 import secrets
 import pyperclip
